@@ -1,0 +1,49 @@
+{
+    "usrnme":"Arathy",
+    "nme":"Arathy",
+    "pwd":"Arathy",
+    "ph":"9876543210",
+    "emal":"Arathy@gmail.com",
+    "role":"User"
+ }
+ {
+    "usrnme":"Ammuse",
+    "nme":"Ammuse",
+    "pwd":"Ammuse",
+    "ph":9876543211,
+    "emal":"Ammuse@gmail.com",
+    "role":"Admin"
+ }
+ {
+    "usrnme":"Andrew",
+    "nme":"Andrew",
+    "pwd":"Andrew",
+    "ph":"9876543212",
+    "emal":"Andrew@gmail.com",
+    "role":"User"
+ }
+ {
+    "usrnme":"Silby",
+    "nme":"Silby",
+    "pwd":"Silby",
+    "ph":"9876543213",
+    "emal":"Silby@gmail.com",
+    "role":"User"
+ }
+  "token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzNDk1Mzc3NTk4OTQwMTUzOTcwZjg2MiIsInVzZXIiOnsiX2lkIjoiNjM0OTUzNzc1OTg5NDAxNTM5NzBmODYyIiwic3RhdHVzIjoiQWN0aXZlIiwicm9sZSI6IlVzZXIiLCJ1c2VybmFtZSI6IlNpbGJ5IiwibmFtZSI6IlNpbGJ5IiwicGFzc3dvcmQiOiIkMmEkMTAkdk9pemtyVndXdk43aDhoTVVFb3VMZUtaU2VYdkFSMjh4SjRUazYvcFg4ZkZwMW95YXg3RnkiLCJwaG9uZSI6OTg3NjU0MzIxMywiZW1haWwiOiJTaWxieUBnbWFpbC5jb20iLCJfX3YiOjB9LCJpYXQiOjE2NjYwMDc4OTl9.Qn9HMYN9M55cC6DgjqG_At07pHXi3XOxNxsYJlz_Y8g"
+   
+    "host": "Ammusee",
+    "fromDate": "2030-02-13",
+    "toDate": "2026-02-16",
+    "venue": "kochi",
+    "name":"Ammuseee Thread"
+
+
+    
+ "token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzNDk1Mzc3NTk4OTQwMTUzOTcwZjg2MiIsInVzZXIiOnsiX2lkIjoiNjM0OTUzNzc1OTg5NDAxNTM5NzBmODYyIiwic3RhdHVzIjoiQWN0aXZlIiwicm9sZSI6IlVzZXIiLCJ1c2VybmFtZSI6IlNpbGJ5IiwibmFtZSI6IlNpbGJ5IiwicGFzc3dvcmQiOiIkMmEkMTAkdk9pemtyVndXdk43aDhoTVVFb3VMZUtaU2VYdkFSMjh4SjRUazYvcFg4ZkZwMW95YXg3RnkiLCJwaG9uZSI6OTg3NjU0MzIxMywiZW1haWwiOiJTaWxieUBnbWFpbC5jb20iLCJfX3YiOjB9LCJpYXQiOjE2NjYwMDc4OTl9.Qn9HMYN9M55cC6DgjqG_At07pHXi3XOxNxsYJlz_Y8g",
+    "name": "Ammuseee Wed" ,
+    "eventId":"634d5200ad1ff36b1734c2b2",
+     "noofseat":10,
+     "adult":5,
+     "childern":5,
+     "totalcount":10
